@@ -16,6 +16,7 @@ liste=[int(random.random()*100) for i in range(0,int(random.random()*20)+1)]
 print("Liste")
 print(liste)
 print("Liste triée")
+#optimisation
 #listetriee=tri(liste)
 #print(listetriee)
 print(tri(liste))
